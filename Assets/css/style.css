@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    display: inline-block;
+}
+
+nav a {
+    color: black;
+}
+
+h1 {
+    display: inline-block;
+    margin: auto;
+    width: 80%;
+}
+
+.title {
+    color: white;
+}
+
+p {
+    border-radius: 5px;
+    background-color: white;
+    display: inline-block;
+    width: 75px;
+}
