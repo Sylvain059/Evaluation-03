@@ -11,6 +11,7 @@
 
     <title>CATALOG MANAGER</title>
     <link rel="stylesheet" href="Assets/css/style.css">
+    <link rel="stylesheet" href="../Assets/css/style.css">
     <!-- Bootstrap core CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
