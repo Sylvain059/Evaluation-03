@@ -10,14 +10,16 @@
     <link rel="icon" href="../../favicon.ico">
 
     <title>CATALOG MANAGER</title>
-    <link rel="stylesheet" href="../../Assets/css/style.css">
+    <link rel="stylesheet" href="../Assets/css/style.css">
     <!-- Bootstrap core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>
 
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<nav class="navbar-dark bg-dark">
+    <div class="container">
         <h1><a class="title" href="#">Catalog Manager</a></h1>
         <p><a href="">Home</a></p>
+    </div>
 </nav>
