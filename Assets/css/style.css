@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1{
+    display: inline-block;
+    width: 75%;
+}
+
+nav a {
+    color: black;
+}
+
+.title {
+    color: white;
+}
+
+p {
+    background-color: white;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+    width: 75px;
+}
+
+
+/*=================     HOME CSS     ====================*/
+
+main{
+
+}
