@@ -1,1 +1,1 @@
-<?php require "Controllers/indexController.php";
+<?php require 'controller/home_control.php';
